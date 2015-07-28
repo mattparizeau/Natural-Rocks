@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mattnaturalrocks",
+  "name": "Natural Rocks",
+  "description": "This mod adds more naturally generated rocks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.github.com/mattparizeau/natural-rocks/",
+  "updateUrl": "",
+  "authorList": ["Matthieu Parizeau"],
+  "credits": "Matthieu Parizeau for creating this mod",
+  "logoFile": "assets/mattnaturalrocks/branding/logo.png",
+  "screenshots": [],
+  "dependencies": [],
+  "requiredMods": ["Forge"]
+}
+]
