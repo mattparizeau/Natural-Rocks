@@ -3,5 +3,13 @@
 /eclipse/
 /bin/
 /build/
+/config/
+/logs/
+/mods/
+/saves/
 /.settings/
 /.gradle/
+.classpath
+.project
+options.txt
+usernamecache.json

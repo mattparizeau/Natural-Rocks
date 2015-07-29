@@ -23,7 +23,7 @@ archivesBaseName = "naturalrocks"
 
 minecraft {
     version = "1.8-11.14.3.1493"
-    assetDir = "eclipse/assets"
+    runDir = "eclipse/assets"
 }
 
 dependencies {
